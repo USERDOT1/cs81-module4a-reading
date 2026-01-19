@@ -65,6 +65,7 @@ function printDailySummary(log) {
 //
 // Good tests
 addReadBook("Saturday", "Dune", 50);
+// A test case would be seeing how it handles negative time, I think it would accept it which it shouldn't
 printDailySummary(readingLog);
 console.log("Total minutes read:", totalReadingMinutes(readingLog));
 console.log("Most read book:", mostReadBook(readingLog));
