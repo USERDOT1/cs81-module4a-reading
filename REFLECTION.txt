@@ -1,0 +1,3 @@
+The best aspect of this code's structure was hands down the way it used objects, it made it so much easier to understand.
+A confusing aspect was the way that your most read book was calculated. It used the instance of reading instead of length.
+Overall it was coded really well.
